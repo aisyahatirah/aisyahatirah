@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saawanttolearn. "saa" stands for SITI AISYAH ATIRAH.
+- 👋 Hi, I’m @aisyahatirah. 
 - 👀 I’m interested in web programming, UI/UX and mobile application development.
 - 🌱 I’m currently learning HTML5, CSS, and will start learning JavaScript soon.
 - 🟠 I have learned Java, Data Structures and Networking.
